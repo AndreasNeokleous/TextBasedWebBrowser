@@ -11,5 +11,4 @@ In addition to hyperlinks, the following HTML tags are handled:
 ```
 
 # Requirements 
-Java 8
-Eclipse 
+JDK, Eclipse 
