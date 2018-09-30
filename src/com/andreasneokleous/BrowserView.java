@@ -38,7 +38,7 @@ public class BrowserView extends JFrame {
 
 	
 	public BrowserView() {
-		setTitle("Text Based Web Browser - an00194");		
+		setTitle("Text Based Web Browser - Andreas Neokleous");		
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setBounds(100, 100, 800, 600);
 		

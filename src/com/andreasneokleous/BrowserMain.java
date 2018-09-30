@@ -9,7 +9,6 @@ package com.andreasneokleous;
  *
  */
 public class BrowserMain {
-
 	public static void main(String[] args) {
 
 		BrowserView appView = new BrowserView();
