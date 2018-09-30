@@ -9,3 +9,7 @@ In addition to hyperlinks, the following HTML tags are handled:
   ```html
 <A>, <UL>, <OL>, <HR>,<BR> and <P>.
 ```
+
+# Requirements 
+Java 8
+Eclipse 
