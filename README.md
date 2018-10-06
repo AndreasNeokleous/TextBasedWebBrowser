@@ -14,3 +14,6 @@ In addition to hyperlinks, the following HTML tags are handled:
 
 # Requirements 
 JDK, Eclipse 
+
+# Screenshot
+<img src="/figures/view.png">
